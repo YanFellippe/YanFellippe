@@ -1,8 +1,4 @@
 ## Bem-vindo(a) ao perfil do Yan Fellippe 😎👨‍💻	
-## Minhas formações:
-## Inglês avançado - Centro Interescolar de Linguas de Taguatinga (CILT) - concluído
-## Ciência da Computação - Faculdade Descomplica - formando
-## Curso de javaScript, TypeScript do básico ao avançado 2022 - Udemy - formando
 
  <div>
   <a href="https://github.com/YanFellippe">
