@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Yan Fellippe 😁
+## Bem-vindo(a) ao perfil do Yan Fellippe 😎👨‍💻	
 
  <div>
   <a href="https://github.com/YanFellippe">
