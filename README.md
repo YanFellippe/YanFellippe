@@ -27,6 +27,6 @@
   <a href= "mailto:yangomesbasilio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yan-fellippe-gomes-basilio-3229b81b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/YanFellippe/YanFellippe/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/diogoX451/diogoX451/blob/output/github-contribution-grid-snake.svg)
 
 </div>
