@@ -27,8 +27,6 @@
   <a href= "mailto:yangomesbasilio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yan-fellippe-gomes-basilio-3229b81b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   - name: GitHub-Profile-3D-Contrib
-  uses: yoshi389111/github-profile-3d-contrib@0.7.0
+  ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
- 
 </div>
