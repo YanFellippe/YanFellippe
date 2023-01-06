@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Yan Fellippe 😎👨‍💻	
+## Hello, Welcome to my profile! My name is Yan Basilio. Hope you enjoy my repositories and use them for help with some inspiration to code 😎👨‍💻	
 
  <div>
   <a href="https://github.com/YanFellippe">
@@ -19,7 +19,7 @@
  
  <br>
  
-  ### Minhas redes sociais e contato:
+  ### My social networks:
  
 <div> 
   <a href= "https://www.instagram.com/yanfellippegomes/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
