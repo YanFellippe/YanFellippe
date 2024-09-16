@@ -11,8 +11,6 @@
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" />
 </p>
-
-<img src="stats.gif" width="90%"><br/><br/>
 </div>
  
 <div style="display: inline_block"><br>
