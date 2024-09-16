@@ -10,7 +10,7 @@
  <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" />
-</p>
+ </p>
 </div>
  
 <div style="display: inline_block"><br>
@@ -44,4 +44,8 @@
  
   ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
+</div>
+
+<div>
+ [![trophy](https://github-profile-trophy.vercel.app/YanFellippe)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
