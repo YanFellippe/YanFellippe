@@ -42,6 +42,9 @@
   ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
- TROPHIES
+
+ <br>
+ 
+ ### TROPHIES
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YanFellippe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
