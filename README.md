@@ -27,9 +27,6 @@
   <img align="center" alt="Java" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="PostgreeSQL" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
-
-
-
 </div>
  
  <br>
@@ -45,5 +42,8 @@
   ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
-
+ ### TROPHIES
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 [![trophy](https://github-profile-trophy.vercel.app/YanFellippe)](https://github.com/ryo-ma/github-profile-trophy)
