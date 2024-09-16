@@ -44,4 +44,4 @@
 </div>
  ### TROPHIES
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YanFellippe)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YanFellippe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
