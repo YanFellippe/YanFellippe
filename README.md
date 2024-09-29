@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=YanFellippe&theme=chartreuse-dark)](https://git.io/streak-stats)
 </div>
 
 <div>
