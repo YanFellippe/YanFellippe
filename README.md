@@ -6,9 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanFellippe&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-<div>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=YanFellippe&theme=chartreuse-dark)](https://git.io/streak-stats)
-</div>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=YanFellippe&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 <div>
  <p align="center"> 
