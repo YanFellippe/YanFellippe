@@ -11,7 +11,9 @@ Hi, I'm **Yan Basilio**! 👨‍💻 I’m passionate about coding and always ea
   </a>
 </div>
 ---
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YanFellippe&theme=chartreuse-dark)](https://git.io/streak-stats)
+
 ---
 
 <div align="center">
