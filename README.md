@@ -8,12 +8,10 @@ Hi, I'm **Yan Basilio**! 👨‍💻 I’m passionate about coding and always ea
   <a href="https://github.com/YanFellippe">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanFellippe&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanFellippe&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=YanFellippe&theme=chartreuse-dark)](https://git.io/streak-stats)
+
   </a>
 </div>
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YanFellippe&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 ---
 
