@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?type=waving&color=0b5394&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I+AM+Yan Fellippe!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?type=waving&color=0b5394&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=opa!+👋;+me+chamo+Douglas!;" />
 </h1>
 
 Hi, I'm **Yan Basilio**! 👨‍💻 I’m passionate about coding and always eager to learn new technologies. Feel free to explore my repositories, and I hope they inspire you on your coding journey. Enjoy! 😎
