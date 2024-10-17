@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b5394&height=120&section=header"/>
 
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=134BF7&background=FFFFFF00&center=true&vCenter=true&width=465&lines=Hello!+%F0%9F%91%8B;I+am+Yan+Fellippe;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=134BF7&background=FFFFFF00&center=true&vCenter=true&width=465&lines=Hello!+%F0%9F%91%8B;I+am+Yan+Fellippe;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+</h1>
 
 I’m passionate about coding and always eager to learn new technologies. Feel free to explore my repositories, and I hope they inspire you on your coding journey. Enjoy! 😎
 
