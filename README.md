@@ -76,4 +76,4 @@ I’m passionate about coding and always eager to learn new technologies. Feel f
 
 ### 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YanFellippe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YanFellippe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
