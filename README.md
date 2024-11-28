@@ -42,8 +42,11 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="center">
-  <p>Visitors count</p>
+  <p>You're the visitor:</p>
   <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
+</div>
+<div>
+  <img src="http://matomo.url/index.php?module=FlagCounter&action=image&idSite=1&period=range&date=1992-01-01,today&cols=2&rows=6" />
 </div>
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
