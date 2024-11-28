@@ -41,13 +41,6 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
-<div align="center">
-  <p>You're the visitor:</p>
-  <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
-</div>
-
-<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
-
 ### 🛠️ Tech Stack
 
 <!--
@@ -105,4 +98,9 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
   
 </div>
 
+<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
+<div align="center">
+  <p>You're the visitor:</p>
+  <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
+</div>
