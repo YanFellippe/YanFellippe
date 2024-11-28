@@ -73,6 +73,10 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YanFellippe&bg_color=04001f&color=00cc3d&line=467cfb&point=3f009e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
+
 ### 🌐 Connect with Me
 
 <div> 
