@@ -6,6 +6,7 @@
 </h1>
 
 🌟 Welcome to My GitHub!
+
 💻 About Me:
 I'm Yan Fellippe, a Computer Science student specializing in fullstack development. With 5 years of programming experience, I’m passionate about solving problems and creating innovative tech solutions.
 
