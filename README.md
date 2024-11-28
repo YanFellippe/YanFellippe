@@ -45,15 +45,12 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
   <p>You're the visitor:</p>
   <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
 </div>
-<div>
-  <img src="http://matomo.url/index.php?module=FlagCounter&action=image&idSite=1&period=range&date=1992-01-01,today&cols=2&rows=6" />
-</div>
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 ### 🛠️ Tech Stack
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" margin-b=15>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" margin-b=15>
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" margin-b=15>
@@ -76,6 +73,9 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
   <img align="center" alt="Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" margin-b=15/>
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" margin-b=15/>                       
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,js,java,c,cs,mysql,postgres,docker,py,php,nodejs,react,ts,aws,eclipse,figma,git,linkedin,notion,vscode,windows,linux&theme=dark&perline=9)](https://skillicons.dev)
+
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 ### 🌐 Connect with Me
