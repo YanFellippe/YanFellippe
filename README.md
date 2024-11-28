@@ -24,7 +24,7 @@ I believe in the power of technology to turn ideas into reality and in the impor
 📩 Let’s Collaborate!
 Feel free to explore my repositories, contribute, or reach out to share ideas about projects, technology, or development.
 
-<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="center">
   <a href="https://github.com/YanFellippe">
@@ -39,14 +39,14 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
 
 </div>
 
----
+<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="center">
   <p>Visitors count</p>
   <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
 </div>
 
----
+<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 ### 🛠️ Tech Stack
 
@@ -73,8 +73,7 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
   <img align="center" alt="Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" margin-b=15/>
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" margin-b=15/>                       
 </div>
-
----
+<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 ### 🌐 Connect with Me
 
@@ -85,11 +84,11 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
   <a href="https://www.linkedin.com/in/yan-fellippe-gomes-basilio-3229b81b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
----
+<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
----
+<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 ### 🏆 Achievements
 <div align="center">
