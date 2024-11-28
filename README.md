@@ -5,7 +5,21 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=134BF7&background=FFFFFF00&center=true&vCenter=true&width=465&lines=Hello!+%F0%9F%91%8B;I'm+Yan+Fellippe;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </h1>
 
-I love code and always eager to learn new technologies. Feel free to explore my repositories, and I hope they inspire you on your coding journey. Enjoy! 😎
+🌟 Welcome to My GitHub!
+💻 About Me:
+I'm Yan Fellippe, a Computer Science student specializing in fullstack development. With 5 years of programming experience, I’m passionate about solving problems and creating innovative tech solutions.
+
+📂 My Projects:
+Here, you'll find a variety of projects, from complete web applications to handy tools for developers.
+
+🌱 What I’m Learning Now:
+Currently diving into advanced technologies and exploring ways to make my applications more scalable and efficient.
+
+🌟 My Mission:
+I believe in the power of technology to turn ideas into reality and in the importance of collaboration to grow as a developer.
+
+📩 Let’s Collaborate!
+Feel free to explore my repositories, contribute, or reach out to share ideas about projects, technology, or development.
 
 ---
 
