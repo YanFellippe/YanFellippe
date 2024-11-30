@@ -42,6 +42,9 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YanFellippe&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 </div>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/8d5702fd940031d61ebde5dcbe78fce528309a97cb0c28ab307c201c435056e7/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64616e69616c746f726b696e657a686164266c696d69743d35267468656d653d6461726b26636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d74727565" alt="" data-canonical-src="https://github-contributor-stats.vercel.app/api?username=YanFellippe&amp;limit=5&amp;theme=chartreuse-dark;combine_all_yearly_contributions=true" style="max-width: 100%;">
+</div>
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
