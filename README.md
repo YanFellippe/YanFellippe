@@ -107,3 +107,5 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
 <img src="./images/API.gif" style="width: 1200px;margin-top: 50px">
 <img src="https://github.com/layhak/layhak/raw/main/line-neon.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
+![Snake animation](https://github.com/YanFellippe/YanFellippe/blob/output/github-contribution-grid-snake.svg)
+
