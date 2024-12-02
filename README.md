@@ -38,14 +38,13 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
 </div>
 <div align="center">
   
-  ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=YanFellippe&limit=5&theme=chartreuse-dark&order_by=contributions&combine_all_yearly_contributions=true)
-  
-</div>
-
-<div align="center">
-  
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YanFellippe&theme=chartreuse-dark" alt="GitHub Streak" /></a>
 
+</div>
+<div align="center">
+  
+  ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=YanFellippe&limit=5&theme=chartreuse-dark&order_by=contributions&combine_all_yearly_contributions=true)
+  
 </div>
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
