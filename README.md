@@ -39,7 +39,7 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=YanFellippe&theme=chartreuse-dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YanFellippe&theme=chartreuse-dark" alt="GitHub Streak" /></a>
 
 </div>
 
