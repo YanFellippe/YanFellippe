@@ -47,7 +47,7 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
   
 </div>
 <div align="center">
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YanFellippe&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YanFellippe)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
