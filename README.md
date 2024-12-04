@@ -46,9 +46,6 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
   ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=YanFellippe&limit=5&theme=chartreuse-dark&order_by=contributions&combine_all_yearly_contributions=true)
   
 </div>
-<div align="center">
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YanFellippe)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
