@@ -77,7 +77,7 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
 </div>
 -->
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,js,java,c,cs,mysql,postgres,docker,sqlite,py,php,nodejs,react,ts,go,aws,arduino,eclipse,androidstudio,figma,git,linkedin,notion,vscode,unity,windows,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,java,c,cs,mysql,postgres,docker,sqlite,py,php,nodejs,react,ts,go,aws,arduino,eclipse,androidstudio,figma,git,linkedin,notion,vscode,unity,windows,linux&theme=dark)](https://skillicons.dev)
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
