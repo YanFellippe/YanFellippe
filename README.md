@@ -37,9 +37,18 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
   </a>
 </div>
 <div align="center">
-  
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YanFellippe&theme=chartreuse-dark" alt="GitHub Streak" /></a>
 
+</div>
+
+<div align="center">
+
+![YanFellippe's Stats](https://github-readme-stats.vercel.app/api?username=YanFellippe&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+
+![YanFellippe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YanFellippe&theme=blue-green&hide_border=false)
+
+![YanFellippe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanFellippe&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
+  
 </div>
 <div align="center">
   
