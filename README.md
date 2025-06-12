@@ -7,25 +7,22 @@
 
 <img src="https://github.com/layhak/layhak/raw/main/line-neon.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
-🌟 Welcome to My GitHub!
+## 🌟 Welcome to My GitHub!
 
-💻 About Me:
-I'm Yan Fellippe, a Computer Science student specializing in fullstack development. With 5 years of programming experience, I’m passionate about solving problems and creating innovative tech solutions.
+### 💻 About Me
+- 🎓 I'm Yan Fellippe, a Computer Science student.
+- 👨‍💻 Fullstack Developer with 5 years of programming experience.
+- 🚀 Passionate about solving problems and building innovative tech solutions.
+- 🤝 Open to collaboration on exciting and impactful projects.
 
-🌟 My Mission:
-I believe in the power of technology to turn ideas into reality and in the importance of collaboration to grow as a developer.
-
-📩 Let’s Collaborate!
-Feel free to explore my repositories, contribute, or reach out to share ideas about projects, technology, or development.
-
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <div align="center"> 
-  <a href="https://www.instagram.com/yanfellippegomes/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/EWbFZMV9YS"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:yangomesbasilio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yan-fellippe-gomes-basilio-3229b81b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/yan_fellippe" target="_blank"><img src="https://camo.githubusercontent.com/be5256cc9aa95d05f7221a604f4ec52c984eba47ae25ba084b532eddbb96a390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.instagram.com/yanfellippegomes/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.gg/EWbFZMV9YS"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="mailto:yangomesbasilio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yan-fellippe-gomes-basilio-3229b81b9/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/yan_fellippe"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
@@ -87,8 +84,8 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="center">
-  <p>You're the visitor:</p>
-  <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
+  <h3>👀 Visitor Counter</h3>
+  <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count"/>
 </div>
 
 <img src="./images/API.gif" style="width: 1200px;margin-top: 50px">
