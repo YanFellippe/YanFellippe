@@ -77,7 +77,21 @@ Feel free to explore my repositories, contribute, or reach out to share ideas ab
 </div>
 -->
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,java,c,cs,mysql,postgres,docker,sqlite,mongodb,py,php,nodejs,react,ts,go,wordpress,aws,arduino,eclipse,androidstudio,unity,figma,git,linkedin,notion,vscode,unity,windows,linux&theme=dark)](https://skillicons.dev)
+### 👨‍💻 Programming Languages  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,php,go,c,cs,dart,html,css&theme=dark)](https://skillicons.dev)
+
+### 🧰 Frameworks & Libraries  
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,flutter,unity&theme=dark)](https://skillicons.dev)
+
+### 🗄️ Databases  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite&theme=dark)](https://skillicons.dev)
+
+### 🔧 Tools & DevOps  
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,linux,windows,vscode,figma,notion&theme=dark)](https://skillicons.dev)
+
+### 🧪 Others  
+[![My Skills](https://skillicons.dev/icons?i=wordpress,androidstudio,eclipse,arduino,gherkin,linkedin&theme=dark)](https://skillicons.dev)
+
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
