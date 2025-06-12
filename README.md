@@ -84,8 +84,8 @@
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="center">
-  <h3>👀 Visitor Counter</h3>
-  <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count"/>
+  <p>👀 Visitor Counter:</p>
+  <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
 </div>
 
 <img src="./images/API.gif" style="width: 1200px;margin-top: 50px">
