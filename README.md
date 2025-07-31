@@ -10,10 +10,10 @@
 ## 🌟 Welcome to My GitHub!
 
 ### 💻 About Me
-- 🎓 I'm Yan Fellippe, a Computer Science student.
-- 👨‍💻 Fullstack Developer with 5 years of programming experience.
-- 🚀 Passionate about solving problems and building innovative tech solutions.
-- 🤝 Open to collaboration on exciting and impactful projects.
+🎓 I'm Yan Fellippe, a Computer Science student.
+👨‍💻 Fullstack Developer with 5 years of programming experience.
+🚀 Passionate about solving problems and building innovative tech solutions.
+🤝 Open to collaboration on exciting and impactful projects.
 
 ## 🌐 Connect with Me
 
