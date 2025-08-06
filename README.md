@@ -64,9 +64,15 @@
 [![My Skills](https://skillicons.dev/icons?i=wordpress,androidstudio,eclipse,arduino,gherkin,linkedin&theme=dark)](https://skillicons.dev)
 
 ## 🏆 Certifications
-[![ISO 9001 Certified](https://www.skillfront.com/badge-files/48337062582530.png)](https://www.skillfront.com/Badges/48337062582530)
 
-[![ISO/IEC 27001 Certified](https://www.skillfront.com/badge-files/93863848036015.png)](https://www.skillfront.com/Badges/93863848036015)
+<a href="https://www.skillfront.com/Badges/48337062582530" target="_blank">
+  <img src="https://www.skillfront.com/badge-files/48337062582530.png" alt="ISO 9001 Certified" width="200"/>
+</a>
+
+<a href="https://www.skillfront.com/Badges/93863848036015" target="_blank">
+  <img src="https://www.skillfront.com/badge-files/93863848036015.png" alt="ISO/IEC 27001 Certified" width="200"/>
+</a>
+
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
