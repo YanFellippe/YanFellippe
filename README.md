@@ -69,6 +69,7 @@
   <img src="https://www.skillfront.com/badge-files/48337062582530.png" alt="ISO 9001 Certified" width="200"/>
 </a>
 
+
 <a href="https://www.skillfront.com/Badges/93863848036015" target="_blank">
   <img src="https://www.skillfront.com/badge-files/93863848036015.png" alt="ISO/IEC 27001 Certified" width="200"/>
 </a>
