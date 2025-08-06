@@ -61,7 +61,7 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,git,linux,windows,vscode,figma,notion&theme=dark)](https://skillicons.dev)
 
 ### 🧪 Others  
-[![My Skills](https://skillicons.dev/icons?i=wordpress,androidstudio,eclipse,arduino,gherkin,linkedin&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,androidstudio,eclipse,arduino,gherkin,npm,linkedin&theme=dark)](https://skillicons.dev)
 
 ## 🏆 Certifications
 
