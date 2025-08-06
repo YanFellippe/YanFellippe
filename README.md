@@ -63,6 +63,10 @@
 ### 🧪 Others  
 [![My Skills](https://skillicons.dev/icons?i=wordpress,androidstudio,eclipse,arduino,gherkin,linkedin&theme=dark)](https://skillicons.dev)
 
+## 🏆 Certifications
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001%20Certified-SkillFront-blue)](https://www.skillfront.com/Badges/48337062582530)
+
+[![ISO/IEC 27001 Certified](https://img.shields.io/badge/ISO%2FIEC%2027001%20Certified-SkillFront-brightgreen)](https://www.skillfront.com/Badges/93863848036015)
 
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
