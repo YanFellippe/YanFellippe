@@ -99,6 +99,5 @@
   <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
 </div>
 
-
 <img src="./images/API.gif" style="width: 1200px;margin-top: 80px">
 <img src="https://github.com/layhak/layhak/raw/main/line-neon.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
