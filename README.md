@@ -55,13 +55,13 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,flutter,express,unity&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Databases  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,postman,sqlite&theme=dark)](https://skillicons.dev)
 
 ### 🔧 Tools & DevOps  
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,linux,windows,vscode,figma,notion&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,linux,windows,vscode,androidstudio,eclipse,idea,figma,notion&theme=dark)](https://skillicons.dev)
 
 ### 🧪 Others  
-[![My Skills](https://skillicons.dev/icons?i=wordpress,androidstudio,eclipse,arduino,gherkin,npm,linkedin&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,arduino,gherkin,npm,linkedin&theme=dark)](https://skillicons.dev)
 
 ## 🏆 Certifications
 
