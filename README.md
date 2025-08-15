@@ -96,7 +96,9 @@
 
 <div align="center">
   <p style="margin-top: 10px, margin-bottom:10px">👀 Visitor Counter:</p>
-<!--   <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count"> -->
+  
+  <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
+  
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/<YanFellippe>"/>
 </div> 
 
