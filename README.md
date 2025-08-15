@@ -96,8 +96,9 @@
 
 <div align="center">
   <p style="margin-top: 10px, margin-bottom:10px">👀 Visitor Counter:</p>
-  <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
-</div>
+<!--   <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count"> -->
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/<YanFellippe>"/>
+</div> 
 
 <img src="./images/API.gif" style="width: 1200px;margin-top: 80px">
 <img src="https://github.com/layhak/layhak/raw/main/line-neon.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
