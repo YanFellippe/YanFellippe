@@ -95,12 +95,8 @@
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="center">
-
-  <img src="https://widgetbite.com/banner?title=Visitors%20Count&subtitle=&backgroundpalette=none&fontpalette=water&titletransform=skew&subtitletransform=none" width=100% height=100%/>
   <p style="margin-top: 10px, margin-bottom:10px">👀 Visitor Counter:</p>
-  
   <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
-  
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/<YanFellippe>"/>
 </div> 
 
