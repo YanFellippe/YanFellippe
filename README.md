@@ -103,7 +103,7 @@
   <!-- Hits total (SeeYouFarm) -->
   <p>
     <a href="https://hits.seeyoufarm.com">
-      <img alt="Visitor Stats" src="https://widgetbite.com/stats/<YanFellippe>"/>
+      <img alt="Visitor Stats" src="https://widgetbite.com/stats/YanFellippe"/>
     </a>
   </p>
 </div>
