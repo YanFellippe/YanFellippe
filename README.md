@@ -95,10 +95,21 @@
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="center">
-  <p style="margin-top: 10px, margin-bottom:10px">👀 Visitor Counter:</p>
-  <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/<YanFellippe>"/>
-</div> 
+
+  <h3>👀 Visitor Counter</h3>
+
+  <!-- Visualização de perfil (Komarev) -->
+  <img src="https://komarev.com/ghpvc/?username=YanFellippe&label=Profile%20views&style=flat" alt="Profile views" />
+
+  <!-- Contador simples (Glitch) -->
+  <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count" />
+
+  <!-- Hits total (SeeYouFarm) -->
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYanFellippe&title=visits" alt="Hits" />
+  </a>
+
+</div>
 
 <img src="./images/API.gif" style="width: 1200px;margin-top: 80px">
 <img src="https://github.com/layhak/layhak/raw/main/line-neon.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
