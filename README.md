@@ -95,17 +95,17 @@
 <img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="center">
-
   <h3>👀 Visitor Counter</h3>
-
   <!-- Visualização de perfil (Komarev) -->
-  <img src="https://komarev.com/ghpvc/?username=YanFellippe&label=Profile%20views&style=flat" alt="Profile views" />
-
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YanFellippe&label=Profile%20views&style=flat" alt="Profile views" />
+  </p>
   <!-- Hits total (SeeYouFarm) -->
-  <a href="https://hits.seeyoufarm.com">
-    <img alt="Visitor Stats" src="https://widgetbite.com/stats/<YanFellippe>"/>
-  </a>
-
+  <p>
+    <a href="https://hits.seeyoufarm.com">
+      <img alt="Visitor Stats" src="https://widgetbite.com/stats/YanFellippe"/>
+    </a>
+  </p>
 </div>
 
 <img src="./images/API.gif" style="width: 1200px;margin-top: 80px">
