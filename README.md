@@ -100,10 +100,8 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=YanFellippe&label=Profile%20views&style=flat" alt="Profile views" />
   </p>
-  <!-- Hits total (SeeYouFarm) -->
-  <p>
-    <img src="https://u8views.com/api/v1/github/profiles/138057646/views/day-week-month-total-count.svg" />
-  </p>
+  
+  [![Yan Basílio profile views](https://u8views.com/api/v1/github/profiles/69776644/views/day-week-month-total-count.svg)](https://u8views.com/github/YanFellippe)
 </div>
 
 <img src="./images/API.gif" style="width: 1200px;margin-top: 80px">
