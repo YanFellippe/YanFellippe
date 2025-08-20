@@ -101,12 +101,9 @@
   <!-- Visualização de perfil (Komarev) -->
   <img src="https://komarev.com/ghpvc/?username=YanFellippe&label=Profile%20views&style=flat" alt="Profile views" />
 
-  <!-- Contador simples (Glitch) -->
-  <img src="https://profile-counter.glitch.me/YanFellippe/count.svg" alt="Visitor count" />
-
   <!-- Hits total (SeeYouFarm) -->
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYanFellippe&title=visits" alt="Hits" />
+    <img alt="Visitor Stats" src="https://widgetbite.com/stats/<YanFellippe>"/>
   </a>
 
 </div>
