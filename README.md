@@ -102,9 +102,7 @@
   </p>
   <!-- Hits total (SeeYouFarm) -->
   <p>
-    <a href="https://hits.seeyoufarm.com">
-      <img alt="Visitor Stats" src="https://widgetbite.com/stats/YanFellippe"/>
-    </a>
+    <img src="https://u8views.com/api/v1/github/profiles/138057646/views/day-week-month-total-count.svg" />
   </p>
 </div>
 
