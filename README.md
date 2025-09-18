@@ -31,8 +31,11 @@
   <a href="https://github.com/YanFellippe">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanFellippe&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanFellippe&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-    <img src="https://camo.githubusercontent.com/1449390f8cd87a6ea83f62950e5fbbed24521857a88bcd87d5d24845feb073d5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5869616f6d696e6758267468656d653d7472616e73706172656e7426636f756e745f707269766174653d747275652673686f775f69636f6e733d747275652672616e6b5f69636f6e3d676974687562266c6f63616c653d656e" alt="XiaomingX's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=YanFellippe&amp;theme=transparent&amp;count_private=true&amp;show_icons=true&amp;rank_icon=github&amp;locale=en" style="max-width: 100%;">
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanFellippe&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanFellippe&langs_count=10&theme=radical)
+    
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YanFellippe&theme=chartreuse-dark" alt="GitHub Streak" /></a>
 
