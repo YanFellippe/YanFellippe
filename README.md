@@ -30,12 +30,7 @@
 <div align="center">
   <a href="https://github.com/YanFellippe">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanFellippe&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanFellippe&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanFellippe&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanFellippe&langs_count=10&theme=radical)
-    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanFellippe&layout=compact&langs_count=7&theme=chartreuse-dark"/>  
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YanFellippe&theme=chartreuse-dark" alt="GitHub Streak" /></a>
 
