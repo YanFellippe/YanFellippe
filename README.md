@@ -47,10 +47,10 @@
 ## 🛠️ Tech Stack
   
 ### 👨‍💻 Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,php,go,c,cs,dart,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,php,go,c,cs,dart,html,css,ruby&theme=dark)](https://skillicons.dev)
 
 ### 🧰 Frameworks & Libraries  
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,flutter,express,unity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,flutter,express,unity,rails&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Databases  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,postman,sqlite&theme=dark)](https://skillicons.dev)
